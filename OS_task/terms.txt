@@ -1,0 +1,2 @@
+Waiting time:- The total time a process waits in the queue before it gets executed
+Turnaround time:- The total amount of time taken to complete a process (i.e completion time - arrival time)
